@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spotify-314410",
+  "private_key_id": "3a93f2294f15623c572feeb57ac56d40ceec01b2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8SflTV0kyVetK\nqYxhmBk/kwfNkxEDWpXSFNUd3//hVq3ICki7IFuoZhLxz/4w30+0AWWSQdbccoCY\nYxc+6yDudTzAA5ZXeEIvG+rTx1X6GmpKQzaaQvlgVwLjttuOuSqWZ/wD1Heqag1D\nE49CXhQCapSOfEeTuY2Jzbr9klAqcNfSXrFQ/R3fi8mqOf/OUdvZD0eBakRpE4WN\nWfwP/Nivws9XqzITvMkTowZovCQ7iTq2le2udAgZc8WirAzPXGBe27icRxE0yrzm\nKIIhKLg/sVTHm5hJ3vQ5f7CbrxrC4ER0SskGDCqrMqq1o9uzqOG54wAuZpYYjsTN\nrzhJ7LRXAgMBAAECggEANVCI7aVQj5Uui7SYkGXd+FdspTQYZCe5NoQ5mDz+GlNN\n38+xqnLOIU/N23S2mCYTTnf6x8Am08MEUKH2ShWP/JVrvz8Eyf2+V9KC2radzLTA\nFgkUI/gE3tekdNApOS+LNI17GaaGv9VJrg2SygsThV+icvoT1mt6/WMoqHZOhsVx\nXaHKzr5npW1r81vXvQMN4iwFCSHZbH1eKMjh+Jav+3dWbmD1xXmkECtaqDHx3D7G\nZtoQUYpaCNwkYuFj0Yr2Ritci4nRugUhKFZbZroEtHRKDGAPf4fomYAqQ0fi+lfC\npWT4dDhQHVJsxGdlqjUBPMDZfShsTjPAvdV40t0iAQKBgQD+EUEtX4kczIQ0FY1V\ns6jlwdd5gmR7+zglsVpThRUgbFIy0G8uZN6o2G1mHpVJlqhj7QQR7YkrdOF5y2oJ\nGeWdSDPS+JvO4TphUyPP0hQzJPW2utiqwFIgTsgeppJibgf+p28kgJdkd8Da4ld0\nT2L5tpi1JyfaQE+g/R7If6X7VwKBgQC9uKEFLyun9XOVLwiGuJsLEf2rE/46rWo3\nVyKefjthbvk6YN09BjbLfTpqXrLSHazc8fvRaZx/GAIlOjcCjQvu+8KNtZH/BW3a\nZvLuhj3tdahy4AWMG0O9As6VgrEOxRLOcNy4hZxx6qAYC9tnxQY4jaf81hRnPjwX\nh1z8HJRvAQKBgQDYjHZkKQCh1kN8bT445Ne5dR2mSJhDAF3b6q1VcKIQL6NkAjox\nbfJGMaoVF04hGdNO0G7epPp8WrPv7ovjU/pcs3TQheuvSlNLLuTgNmvXJ9JyvBD+\ngMu/E8cIMOumD6iqyaU2lI/1Jwjux2rJDP0MYDEKfmQ+ZwA39Gavd/VOIwKBgH0i\nO8JJnIfJkxTA0uTY+hpRIXknVLWrD7W0mTbkl5HqOiRRI1tOr/GDhXYHQ/bmb8/D\nI466E+iYE0IupX3fPhHAqFADhGoqUIyO/ohorovi4Nnz/HSuvvz5zvw6GUJepcrY\nEhz6s3dHg5SYrXxCLZo7hKN1KDv4hnYWaDQ5PYYBAoGBALGFiu+QuO5hRxgSmxaA\nS4KTnvjNZB1qcOOjyF232//hvIluX1VffOnaDfvZKsNZEHmFydG4+zsuvOUX7uPm\ng3HPcyaXxhYyMEhHz2b7oDx16CWfT+N6Haxq5UiwFx0X1Wd2puFfk6gYA1fzMsY9\nc5rZCc4fl0c1WEsvRmudATPw\n-----END PRIVATE KEY-----\n",
+  "client_email": "ishpreet21698@spotify-314410.iam.gserviceaccount.com",
+  "client_id": "114790099617629280074",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ishpreet21698%40spotify-314410.iam.gserviceaccount.com"
+}
