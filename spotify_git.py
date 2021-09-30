@@ -126,7 +126,7 @@ def genre_song_recom(genre,n):
 def spotify_show():      ## UI for user input uses streamlit
     
 
-    st.header("Prediction")
+    st.header("Predict Popularity of a song")
     year = st.slider("Year", min_value=1921, max_value=2020)
     st.text("Year in which the song was released")
     danceability = st.slider("Danceability", min_value=0.0, max_value=1.0)
@@ -147,7 +147,7 @@ def spotify_show():      ## UI for user input uses streamlit
         st.subheader('Popularity score of the song (out of 100):')
         st.success(output)
 
-    st.header("Recommendations by song")
+    st.header("Get recommendations by song")
     song_name = st.text_input("Enter the name of the song you like")
     no_of_recom = st.slider("The number of recommendations you want", 1, 20,key="slider1")
     tup, s, ar = find_song(song_name, dataf)
@@ -158,7 +158,7 @@ def spotify_show():      ## UI for user input uses streamlit
         if xx:
             find_cos_dist(dataf, s[xx[1]], no_of_recom, ar[xx[1]], st)
     
-    st.header("Recommendations by genre")
+    st.header("Get recommendations by genre")
     genre_name = st.text_input("Enter the genre you like")
     no_of_rec= st.slider("The number of recommendations you want", 1, 20,key="slider2")
     tup2=find_genre(genre_name,df)
